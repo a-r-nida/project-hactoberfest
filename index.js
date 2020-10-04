@@ -8,3 +8,5 @@ const hitung = (A, B) => {
 };
 
 console.log(hitung(A, B));
+
+// yuhu
